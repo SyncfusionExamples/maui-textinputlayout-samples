@@ -1,7 +1,7 @@
 # maui-textinputlayout-samples
 Contains samples for .NET MAUI TextInputLayout control
 
-# Getting Started with the .NET MAUI TextInputLayout Control
+## Getting Started with the .NET MAUI TextInputLayout Control
 The text input layout adds decorative elements like floating labels, icons, and assistive labels on top of input views such as Entry and Editor, SfAutocomplete, SfComboBox controls.
 
 Documentation: https://help.syncfusion.com/maui/textinputlayout/getting-started
